@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{BE32C4DE-420A-6DA1-700E-449C66D4BC57}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TencentCourse",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
